@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://yyloves.github.io</id>
     <title>小樱欢迎</title>
-    <updated>2021-03-02T07:25:01.119Z</updated>
+    <updated>2021-03-02T07:47:51.413Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://yyloves.github.io"/>
     <link rel="self" href="https://yyloves.github.io/atom.xml"/>
@@ -11,12 +11,13 @@
     <icon>https://yyloves.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, 小樱欢迎</rights>
     <entry>
-        <title type="html"><![CDATA[红花火]]></title>
+        <title type="html"><![CDATA[《孟子》生于忧患，死于安乐]]></title>
         <id>https://yyloves.github.io/post/Cd2-4uTmK/</id>
         <link href="https://yyloves.github.io/post/Cd2-4uTmK/">
         </link>
         <updated>2021-03-02T06:01:47.000Z</updated>
-        <content type="html"><![CDATA[<p>快快乐乐每一天。<img src="https://yyloves.github.io/post-images/1614664952908.png" alt="" loading="lazy"></p>
+        <content type="html"><![CDATA[<p>舜发于畎亩之中，傅说举于版筑之间，胶鬲举于鱼盐之中，管夷吾举于士，孙叔敖举于海，百里奚举于市。故天将降大任于是人也，必先苦其心志，劳其筋骨，饿其体肤，空乏其身，行拂乱其所为，所以动心忍性，曾益其所不能。</p>
+<p>人恒过，然后能改，困于心，衡于虑，而后作；征于色，发于声，而后喻。入则无法家拂士，出则无敌国外患者，国恒亡，然后知生于忧患而死于安乐也。</p>
 ]]></content>
     </entry>
     <entry>
