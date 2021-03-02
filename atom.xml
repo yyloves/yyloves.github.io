@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://yyloves.github.io</id>
     <title>小樱欢迎</title>
-    <updated>2021-03-02T08:08:54.149Z</updated>
+    <updated>2021-03-02T08:19:24.473Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://yyloves.github.io"/>
     <link rel="self" href="https://yyloves.github.io/atom.xml"/>
@@ -10,6 +10,16 @@
     <logo>https://yyloves.github.io/images/avatar.png</logo>
     <icon>https://yyloves.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, 小樱欢迎</rights>
+    <entry>
+        <title type="html"><![CDATA[每日一图]]></title>
+        <id>https://yyloves.github.io/post/Oj4lIMDQh/</id>
+        <link href="https://yyloves.github.io/post/Oj4lIMDQh/">
+        </link>
+        <updated>2021-03-02T08:16:48.000Z</updated>
+        <content type="html"><![CDATA[<p><img src="https://yyloves.github.io/post-images/1614673068037.jpg" alt="" loading="lazy"><br>
+😀</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[祝大家牛年快乐，牛年大吉]]></title>
         <id>https://yyloves.github.io/post/mUQItUNPQ/</id>
