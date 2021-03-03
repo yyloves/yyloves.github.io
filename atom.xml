@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://yyloves.github.io</id>
     <title>小樱欢迎</title>
-    <updated>2021-03-03T09:59:36.374Z</updated>
+    <updated>2021-03-03T10:07:33.591Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://yyloves.github.io"/>
     <link rel="self" href="https://yyloves.github.io/atom.xml"/>
@@ -10,6 +10,55 @@
     <logo>https://yyloves.github.io/images/avatar.png</logo>
     <icon>https://yyloves.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, 小樱欢迎</rights>
+    <entry>
+        <title type="html"><![CDATA[《中国古代名人》]]></title>
+        <id>https://yyloves.github.io/post/cBLTEB3A8/</id>
+        <link href="https://yyloves.github.io/post/cBLTEB3A8/">
+        </link>
+        <updated>2021-03-03T10:06:39.000Z</updated>
+        <content type="html"><![CDATA[<p>第一节 百家宗师——吕尚 第二节 宰辅楷模——管仲<br>
+第三节 改革大师——商鞅 第四节 千古一帝——秦始皇<br>
+第五节 帝王佐辅——李斯 第六节 开国名相——萧何<br>
+第七节 布衣天子——刘邦 第八节 西楚霸王——项羽<br>
+第九节 汉武大帝——刘彻 第十节 神机妙算——诸葛亮<br>
+第十一节 乱世能臣——曹操 第十二节 江东雄主——孙权<br>
+第十三节 忠义之君——刘备 第十四节 第一谏臣——魏征<br>
+第十五节 盛世明君——李世民 第十六节 一代女皇——武则天<br>
+第十七节 护国良相——狄仁杰 第十八节 黄袍加身——赵匡胤<br>
+第十九节 一代天骄——成吉思汗 第二十节 乞丐皇帝——朱元璋<br>
+第二十一节 救时良相——张居正 第二十二节 盛世君王——康熙帝<br>
+第二十三节 文治武功——乾隆帝 第二十四节 垂帘听政——慈禧太后<br>
+第二十五节 儒者之帅——曾国藩 第二十六节 天下为公——孙中山<br>
+第二章 军事将领<br>
+第一节 兵学祖师——孙武 第二节 威震列国——廉颇<br>
+第三节 千秋兵仙——韩信 第四节 扬威匈奴——李广<br>
+第五节 大汉骄雄——卫青 第六节 名将之星——霍去病<br>
+第七节 风流才俊——周瑜 第八节 忠义良将——关羽<br>
+第九节 流芳万古——岳飞 第十节 赤胆英魂——郑成功<br>
+第十一节 靖海卫国——戚继光<br>
+第三章 科学巨匠<br>
+第一节 治水典范——李冰 第二节 造纸宗匠——蔡伦<br>
+第三节 科学拱顶——张衡 第四节 医方之祖——张仲景<br>
+第五节 数学奇葩——祖冲之 第六节 悬壶济世——孙思邈<br>
+第七节 航海先声——郑和 第八节 药学名家——李时珍<br>
+第九节 活版之父——毕昇<br>
+第四章 哲坛泰斗<br>
+第一节 道法自然——老子 第二节 践行不息——孔子<br>
+第三节 兼爱厚民——墨子 第四节 儒家亚圣——孟子<br>
+第五节 法家大师——韩非子 第六节 理学巨匠——朱熹<br>
+第七节 知行合一——王守仁 第八节 救时已任——顾炎武<br>
+第九节 经世致用——王夫之<br>
+第五章 艺术大师<br>
+第一节 书法圣手——王羲之 第二节 丹青神韵——顾恺之<br>
+第三节 楷书第一——欧阳询 第四节 铁划银钩——颜真卿<br>
+第五节 如橼巨笔——柳公权 第六节 妙笔成风——吴道子<br>
+第七节 写实大师——张择端 第八节 杂剧冠冕——关汉卿<br>
+第九节 东方莎翁——汤显祖<br>
+第六章 商界巨子<br>
+第一节 民间财神——范蠡 第二节 明初巨富——沈万三<br>
+第三节 红顶商人——胡雪岩</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
         <id>https://yyloves.github.io/post/hello-gridea/</id>
